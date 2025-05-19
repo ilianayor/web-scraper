@@ -1,3 +1,3 @@
 # web-scraper
 
-A simple Python web scraper using Beautiful Soup to extract public information about the largest companies in Europe by revenue from Wikipedia and export the data to a CSV file.
+Simple Python web scraper using Beautiful Soup to extract data on Europe’s largest companies by revenue from Wikipedia and export to CSV.
